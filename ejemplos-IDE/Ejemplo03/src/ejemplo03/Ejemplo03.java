@@ -18,7 +18,7 @@ public class Ejemplo03 {
         // Tipos de dato en Java
         
         // Tipo de datos Entero
-        
+
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
